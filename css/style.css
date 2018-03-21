@@ -24,7 +24,7 @@ body {
 
 #wrapper {
   background-image: url(../images/background/background.jpg);
-  height: 550px;
+  height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
@@ -55,7 +55,8 @@ body {
 .feature p {
   color: #444444;
   font-weight: 300;
-  letter-spacing: 1px
+  letter-spacing: 1px;
+  font-size: 17px;
 }
 
 .feature img {
